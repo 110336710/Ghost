@@ -19,7 +19,10 @@ Get preferences from player
 Get score
 Save score on username
 Show highscore on username
-Menu to start new game or to change player’s names
-
+have menu
+start new game from menu
+change players name from menu
+create landscape
+save instance state
 
 
