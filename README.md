@@ -1,0 +1,2 @@
+# Ghost
+proposal
